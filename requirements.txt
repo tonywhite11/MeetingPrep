@@ -12,7 +12,7 @@ certifi==2024.2.2
 cffi==1.16.0
 charset-normalizer==3.3.2
 click==8.1.7
-crewai==0.11.1
+crewai==0.1.1
 curl_cffi==0.6.0b9
 dataclasses-json==0.6.4
 Deprecated==1.2.14
